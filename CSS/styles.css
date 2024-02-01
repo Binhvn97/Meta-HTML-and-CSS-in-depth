@@ -179,6 +179,7 @@ footer {
     display: grid;
     grid-area: footer;
     align-items: center;
+    justify-items: stretch;
     margin: 0%;
     grid-template-columns: repeat(3, 1fr);
     background-color: #719D96;
